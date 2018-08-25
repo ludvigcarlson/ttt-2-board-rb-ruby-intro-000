@@ -3,3 +3,4 @@ time.new
 puts "Good Morning LAD"
 puts "Lads, Lads, Lads"
 puts "All the lads!"
+good_morning
